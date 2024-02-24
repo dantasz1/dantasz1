@@ -1,7 +1,7 @@
 
-
+<div>
 ### Olá, Eu sou o André Luiz 👋
-<br> 
+</div>
 
 - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack
   
@@ -16,6 +16,7 @@
   <img align="center" alt = "deep-React" height="30" width="40" src = 'https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg'>
   <img align="center" alt="deep-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="deep-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
 
 
   ### Ferramentas:
