@@ -1,7 +1,7 @@
 
-<div>
+
 ### Olá, Eu sou o André Luiz 👋
-</div>
+
 
 - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack
   
