@@ -9,7 +9,7 @@ let andré = {
     country: 'Brazil',
     city: 'Praia Grande, SP',
     stack: ['JavaScript', 'Node.js', 'TypeScript', 'React', ],
-    interessadoEm: ['Js', 'Node.js', 'TypeScript', 'React', 'Next.js'],
+    interestedIn: ['Js', 'Node.js', 'TypeScript', 'React', 'Next.js'],
     hobbies: ['Gym', 'Gaming', 'Programming']
 };
 ```
