@@ -1,6 +1,19 @@
 
 
-<h1> Olá, Eu sou o André Luiz 👋</h1>
+<h1 align = "center">Olá, Eu sou o André Luiz 👋</h1>
+
+
+```javascript
+let andré = {
+    age: 18,
+    country: 'Brazil',
+    city: 'Praia Grande, SP',
+    stack: ['JavaScript', 'Node.js', 'TypeScript', 'React', ],
+    interessadoEm: ['Js', 'Node.js', 'TypeScript', 'React', 'Next.js'],
+    hobbies: ['Gym', 'Gaming', 'Programming']
+};
+```
+
 
 
 - 🚀 Iniciante em Desenvolvimento Web Front-End, buscando expandir conhecimentos para mergulhar no universo FullStack
