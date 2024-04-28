@@ -39,10 +39,15 @@ let andré = {
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
  
 ### Contatos:
-<div> 
-  <img 
-  <a href="https://www.instagram.com/dantas_z1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreluiz.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.instagram.com/dantas_z1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:andreluiz.desenvolvedor@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 
   ![Snake animation](https://github.com/uLemos/uLemos/blob/output/github-contribution-grid-snake.svg)
