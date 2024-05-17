@@ -28,6 +28,7 @@ let andré = {
     <img align="center" alt="deep-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="deep-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" alt = "deep-React" height="30" width="40" src = 'https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg'>
+     <img align="center" alt = "deep-Figma" height="30" width="40" src = 'https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg'>
    <img align="center" alt = "deep-NodeJS" height="30" width="40" src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg'>  
     <img align="center" alt = "deep-Postgresql" height="30" width="40" src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg'>   
     <img align="center" alt="deep-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
