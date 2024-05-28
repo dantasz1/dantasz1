@@ -32,7 +32,7 @@ let andré = {
    <img align="center" alt = "deep-NodeJS" height="30" width="40" src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg'>  
     <img align="center" alt = "deep-Postgresql" height="30" width="40" src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg'>   
     <img align="center" alt="deep-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="deep-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
+
   </div>
 
 
