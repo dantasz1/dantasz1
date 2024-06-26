@@ -16,7 +16,7 @@ let andré = {
 
 
 
-- 🚀Beginner in Front-End Web Development, looking to expand knowledge to dive into the FullStack universe
+- 🚀Iniciante em Desenvolvimento Web Front-End, buscando ampliar conhecimentos para mergulhar no universo FullStack
   
 - 📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente🖊️
 
