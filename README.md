@@ -15,11 +15,26 @@ let andré = {
 ```
 
 
-
-- 🚀Iniciante em Desenvolvimento Web Front-End, buscando ampliar conhecimentos para mergulhar no universo FullStack
-  
-- 📚 Comprometido em aprimorar habilidades para superar desafios e crescer profissionalmente🖊️
-
+<h1 align="center">Skills</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <p></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edubarreira1212&show_icons=true&locale=en&layout=compact" alt="deep" /></p>
+</div>
 
    
 ### Languages:
