@@ -1,5 +1,5 @@
 
-<h1 align="center" >Olá, sou o André Luiz!</h1>
+<h1 align="center" >Hello, I'm André Luiz!</h1>
 
 
 
