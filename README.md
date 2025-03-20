@@ -3,16 +3,7 @@
 
 
 
-```javascript
-let andré = {
-    age: 18,
-    country: 'Brazil',
-    city: 'Praia Grande, SP',
-    stack: ['JavaScript', 'Node.js', 'TypeScript', 'React', ],
-    interestedIn: ['Js', 'Node.js', 'TypeScript', 'React', 'Next.js'],
-    hobbies: ['Gym', 'Gaming', 'Programming']
-};
-```
+
 
 
 <h1 align="center">Skills</h1>
@@ -28,8 +19,6 @@ let andré = {
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <p></p>
